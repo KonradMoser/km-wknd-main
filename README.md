@@ -1,4 +1,4 @@
-# Edge Delivery Services - WKND Demo
+# Edge Delivery Services - Konrads WKND Demo
 Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
 
 - Experimentation capabilities 
